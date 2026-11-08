@@ -54,7 +54,7 @@ We held weekly meetings (in person and on calls) and used WhatsApp and Microsoft
 The team's project files were kept in a shared folder to reduce the risk of losing work.
 The main risks we identified were delays, miscommunication and lost files, and we planned around each.
 ## Requirements
-*Functional requirements*
+# *Functional requirements*
 #	Area	What the system should do
 1	Employee management	Add and manage employee records and track roles (including staff who hold more than one role)
 2	Participation and volunteer records	Store records of participants and volunteers in health programmes and support groups
@@ -90,15 +90,13 @@ Shows the system as a single process and everything that flows in and out of it.
 
 Breaks the system into six main processes: employee management, scheduling health programmes, recording events, managing inventory, creating weekly reports, and purchases and subscriptions.
 
-Level 1 DFD
 
 ## Level 2 DFDs
 
 Each main process is broken down further, with a separate diagram for employee management, inventory, weekly reports, event recording, purchases and subscriptions, and programme scheduling.
 
-## Level 2 DFDs
 
-Logical model: flowchart
+## Logical model: flowchart
 
 We used a flowchart to model the system's logic because it is clear to both technical and non-technical readers. It shows how a user logs in, reaches a role-based dashboard, and moves through each process, including the decision point where purchases over £750 need board approval.
 
