@@ -84,9 +84,9 @@ Use case diagram
 
 Shows the system as a single process and everything that flows in and out of it. The external entities are staff members, customers, shop managers, board members and the bank (for payment verification).
 
-## Context DFD
 
-## Level 1 DFD
+
+## Level 1 DFD - The context DFD
 
 Breaks the system into six main processes: employee management, scheduling health programmes, recording events, managing inventory, creating weekly reports, and purchases and subscriptions.
 
