@@ -1,10 +1,13 @@
 # **HealthyHearts Charity: Systems Analysis Project**
 
+<img width="1254" height="1254" alt="Designer" src="https://github.com/user-attachments/assets/01f90972-056c-4cb6-859f-7a7cec81ab77" />
+
+
 A systems analysis and design project for a fictional health charity, HealthyHearts. Working in a team of four, we analysed how the charity operates and proposed a single information system to replace its manual processes. I was the team leader.
 
 Methods and tools: Agile methodology, Belbin team roles, Gantt charting, use case diagrams, data flow diagrams (DFDs), flowcharts, Miro, Microsoft Teams, WhatsApp Context: Group portfolio for IY454 Introduction to Information Systems Analysis, Nottingham Trent International College (February to April 2026)
 
-Note: HealthyHearts is a case study scenario set by the module, not a real client. The system described here is a design proposal. It has not been built as working software.
+# Note: HealthyHearts is a case study scenario set by the module, not a real client. The system described here is a design proposal. It has not been built as working software.
 
 ## **The scenario**
 
