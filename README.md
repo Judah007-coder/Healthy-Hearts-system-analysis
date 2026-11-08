@@ -136,8 +136,4 @@ Leading means giving direction while also listening, and being willing to help t
 
 
 
-# *Report*
-[HealthyHearts_Systems_Analysis_Report.pdf](https://github.com/user-attachments/files/34535509/HealthyHearts_Systems_Analysis_Report.pdf)
-
-
 
