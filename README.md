@@ -126,8 +126,18 @@ Misunderstandings about who was doing which task caused delays that then affecte
 
 Be more open early on about our individual schedules. Because we weren't, sections were finished at different times, which slowed us down. Agreeing availability on day one would have avoided most of the waiting.
 
+
+
 ## What I learned
 
 A team project depends on communication as much as technical skill.
 Planning the schedule properly at the start (the Gantt chart) saves a lot of time later.
 Leading means giving direction while also listening, and being willing to help teammates who fall behind.
+
+
+
+# *Report*
+[HealthyHearts_Systems_Analysis_Report.pdf](https://github.com/user-attachments/files/34535509/HealthyHearts_Systems_Analysis_Report.pdf)
+
+
+
